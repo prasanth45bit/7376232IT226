@@ -19,3 +19,4 @@ app.post("/log", async (req, res) => {
 app.listen(PORT, () => {
   console.log(`Logging Middleware running on port ${PORT}`);
 });
+
